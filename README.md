@@ -21,4 +21,4 @@ Welcome to my professional repository. This space showcases the intersection of 
 ### 📬 Contact & Professional Credentials
 * **Designation:** Chartered Professional Accountant (CPA Candidate, 2026)
 * **Location:** Vancouver, BC
-* **Connect:** [LinkedIn Profile URL]
+* **Connect:** [www.linkedin.com/in/cy3066901156]
