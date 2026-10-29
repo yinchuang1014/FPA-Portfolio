@@ -10,12 +10,14 @@ Welcome to my professional repository. This space showcases the intersection of 
 * **File Directory:** `SaaS_24Month_Financial_Model.xlsx`
 
 ---
-
-## 🗄️ Project 2: Large-Scale Financial Data Validation (SQL Scripting)
-* **Objective:** Developed robust SQL scripts to query, audit, and clean transactional relational database ledgers to support corporate reporting.
-* **Technical Skills Demonstrated:** Multi-table relational joins, data aggregation, duplicate removal, subqueries, and discrepancy isolation.
-* **Core Application:** Reconciling multi-entity data anomalies and testing internal data systems to ensure total reporting alignment.
-* **File Directory:** `Financial_Data_Validation_Queries.sql`
+## 🗄️ Project 2: Enterprise Data Cleaning & Transformation (SQL)
+* **Objective:** Executed an intensive data cleaning and restructuring program on a raw housing dataset of over 50,000 records to ensure data integrity and structural accuracy.
+* **Core Technical Functions:** Utilized `SELECT`, `FROM`, `JOIN ON`, `WHERE`, `GROUP BY`, `HAVING`, and `ORDER BY` to filter, aggregate, and isolate systemic data anomalies.
+* **Advanced Data Restructuring:** 
+  * Implemented **Common Table Expressions (CTEs)** alongside window functions (`ROW_NUMBER`) to identify and purge duplicate records.
+  * Executed schema modifications using `ALTER TABLE` and `UPDATE` commands to normalize raw strings.
+  * Leveraged `PARSENAME` and `REPLACE` string functions to split unformatted, delimited address fields into clean, relational atomic columns.
+* **File Directory:** `Nashville_Housing_Data_Cleaning_and_Transformation.sql`
 
 ---
 ### 📬 Contact & Professional Credentials
