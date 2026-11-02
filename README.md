@@ -12,14 +12,14 @@ A multi-scenario corporate financial model built from scratch for **ApexMetrics 
 
 ### 🗂️ Workbook Architecture (Presentation Order)
 *  **`📈 Dashboard`:** Premium visual interface tracking ARR growth curves, margins, and conditional runway indicators.
-2.  **`🎛️ Scenario analysis`:** High-level summary isolating Base, Upside, and Downside outcomes side-by-side.
-3.  **`⚖️ Budget vs. actual variance analysis`:** Mid-horizon tracking comparing frozen budgets against actual results with delta evaluations ($\Delta$ and %).
-4.  **`📑 Integrated 3-statement model`:** Dynamic, indirect accounting core; the Balance Sheet dynamically self-balances to exactly `$0.00`.
-5.  **`⚙️ Inputs & driver`:** Centralized control room utilizing `=CHOOSE()` functions tied to a cell `C4` master toggle.
-6.  **`📊 Revenue schedule`:** Sub-ledger tracking customer cascades, monthly recurring revenue (MRR), and annualized run-rates (ARR).
-7.  **`☁️ Variable AWS Cloud COGS`:** Hosting cost calculation engine leveraging approximate-match tiered logic.
-8.  **`👥 Expense schedule`:** Personnel overhead schedules deploying automated, periodic step-function merit adjustments.
-9.  **`🏦 Bank fee & working capital optimization schedule`:** Chronological aging tool tracking cash acceleration.
+*  **`🎛️ Scenario analysis`:** High-level summary isolating Base, Upside, and Downside outcomes side-by-side.
+*  **`⚖️ Budget vs. actual variance analysis`:** Mid-horizon tracking comparing frozen budgets against actual results with delta evaluations ($\Delta$ and %).
+*  **`📑 Integrated 3-statement model`:** Dynamic, indirect accounting core; the Balance Sheet dynamically self-balances to exactly `$0.00`.
+*  **`⚙️ Inputs & driver`:** Centralized control room utilizing `=CHOOSE()` functions tied to a cell `C4` master toggle.
+*  **`📊 Revenue schedule`:** Sub-ledger tracking customer cascades, monthly recurring revenue (MRR), and annualized run-rates (ARR).
+*  **`☁️ Variable AWS Cloud COGS`:** Hosting cost calculation engine leveraging approximate-match tiered logic.
+*  **`👥 Expense schedule`:** Personnel overhead schedules deploying automated, periodic step-function merit adjustments.
+*  **`🏦 Bank fee & working capital optimization schedule`:** Chronological aging tool tracking cash acceleration.
 
 
 ---
