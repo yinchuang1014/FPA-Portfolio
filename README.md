@@ -4,22 +4,22 @@ Welcome to my professional repository. This space showcases the intersection of 
 
 ## 📊 Project 1: 24-Month Driver-Based SaaS Financial Model
 
-### 🏢 Executive Summary
+### Executive Summary
 A multi-scenario corporate financial model built from scratch for **ApexMetrics SaaS** to evaluate technology growth vectors, optimize cash management, and ensure 3-statement data integrity.
 
 *   **Infrastructure Cost Optimization:** Models resource-based variable hosting economics using tiered data limits ($0.020/GB to $0.012/GB) to defend long-term gross margins.
 *   **Working Capital Cash Velocity:** Quantifies balance sheet efficiencies and liquidity unlocked by compressing account collections processing from 45 days down to an automated 15-day cycle.
 
-### 🗂️ Workbook Architecture (Presentation Order)
-*  **`📈 Dashboard`:** Premium visual interface tracking ARR growth curves, margins, and conditional runway indicators.
-*  **`🎛️ Scenario analysis`:** High-level summary isolating Base, Upside, and Downside outcomes side-by-side.
-*  **`⚖️ Budget vs. actual variance analysis`:** Mid-horizon tracking comparing frozen budgets against actual results with delta evaluations ($\Delta$ and %).
-*  **`📑 Integrated 3-statement model`:** Dynamic, indirect accounting core; the Balance Sheet dynamically self-balances to exactly `$0.00`.
-*  **`⚙️ Inputs & driver`:** Centralized control room utilizing `=CHOOSE()` functions tied to a cell `C4` master toggle.
-*  **`📊 Revenue schedule`:** Sub-ledger tracking customer cascades, monthly recurring revenue (MRR), and annualized run-rates (ARR).
-*  **`☁️ Variable AWS Cloud COGS`:** Hosting cost calculation engine leveraging approximate-match tiered logic.
-*  **`👥 Expense schedule`:** Personnel overhead schedules deploying automated, periodic step-function merit adjustments.
-*  **`🏦 Bank fee & working capital optimization schedule`:** Chronological aging tool tracking cash acceleration.
+### Workbook Architecture (Presentation Order)
+*  **`Dashboard`:** Premium visual interface tracking ARR growth curves, margins, and conditional runway indicators.
+*  **`Scenario analysis`:** High-level summary isolating Base, Upside, and Downside outcomes side-by-side.
+*  **`Budget vs. actual variance analysis`:** Mid-horizon tracking comparing frozen budgets against actual results with delta evaluations ($\Delta$ and %).
+*  **`Integrated 3-statement model`:** Dynamic, indirect accounting core; the Balance Sheet dynamically self-balances to exactly `$0.00`.
+*  **`Inputs & driver`:** Centralized control room utilizing `=CHOOSE()` functions tied to a cell `C4` master toggle.
+*  **`Revenue schedule`:** Sub-ledger tracking customer cascades, monthly recurring revenue (MRR), and annualized run-rates (ARR).
+*  **`Variable AWS Cloud COGS`:** Hosting cost calculation engine leveraging approximate-match tiered logic.
+*  **`Expense schedule`:** Personnel overhead schedules deploying automated, periodic step-function merit adjustments.
+*  **`Bank fee & working capital optimization schedule`:** Chronological aging tool tracking cash acceleration.
 
 
 ---
