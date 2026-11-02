@@ -11,7 +11,7 @@ A multi-scenario corporate financial model built from scratch for **ApexMetrics 
 *   **Working Capital Cash Velocity:** Quantifies balance sheet efficiencies and liquidity unlocked by compressing account collections processing from 45 days down to an automated 15-day cycle.
 
 ### 🗂️ Workbook Architecture (Presentation Order)
-1.  **`📈 Dashboard`:** Premium visual interface tracking ARR growth curves, margins, and conditional runway indicators.
+*  **`📈 Dashboard`:** Premium visual interface tracking ARR growth curves, margins, and conditional runway indicators.
 2.  **`🎛️ Scenario analysis`:** High-level summary isolating Base, Upside, and Downside outcomes side-by-side.
 3.  **`⚖️ Budget vs. actual variance analysis`:** Mid-horizon tracking comparing frozen budgets against actual results with delta evaluations ($\Delta$ and %).
 4.  **`📑 Integrated 3-statement model`:** Dynamic, indirect accounting core; the Balance Sheet dynamically self-balances to exactly `$0.00`.
