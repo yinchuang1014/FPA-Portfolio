@@ -3,7 +3,6 @@ Welcome to my professional repository. This space showcases the intersection of 
 ---
 
 ## 📊 Project 1: 24-Month Driver-Based SaaS Financial Model
-# 📊 Advanced 24-Month SaaS FP&A Corporate Forecasting Engine
 
 ![Excel](https://shields.io)
 ![Financial Modeling](https://shields.io)
