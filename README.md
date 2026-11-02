@@ -4,10 +4,6 @@ Welcome to my professional repository. This space showcases the intersection of 
 
 ## 📊 Project 1: 24-Month Driver-Based SaaS Financial Model
 
-![Excel](https://shields.io)
-![Financial Modeling](https://shields.io)
-![Status](https://shields.io)
-
 ## 🏢 Executive Project Abstract
 This repository houses an institutional-grade, multi-scenario corporate financial model built completely from scratch for **ApexMetrics SaaS**—an enterprise subscription software platform. 
 
