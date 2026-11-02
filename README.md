@@ -10,7 +10,14 @@ A multi-scenario corporate financial model built from scratch for **ApexMetrics 
 *   **Infrastructure Cost Optimization:** Models resource-based variable hosting economics using tiered data limits ($0.020/GB to $0.012/GB) to defend long-term gross margins.
 *   **Working Capital Cash Velocity:** Quantifies balance sheet efficiencies and liquidity unlocked by compressing account collections processing from 45 days down to an automated 15-day cycle.
 
-### Workbook Architecture (Presentation Order)
+This project houses an institutional-grade, multi-scenario corporate financial model built completely from scratch for **ApexMetrics SaaS**—an enterprise subscription software platform. 
+
+The core objective of this project is to demonstrate advanced **Financial Planning & Analysis (FP&A)** methodologies, forward-looking driver-based forecasting, and rigorous 3-statement financial integration. The model is structurally optimized to address two critical core software metrics:
+*   **Variable Cloud Infrastructure Unit-Cost Optimization:** Implements dynamic, resource-based variable costing structures to map cloud hosting outlays directly to scaling data storage thresholds.
+*   **Working Capital Cash Velocity Acceleration:** Models the balance sheet efficiencies and liquidity unlocked by eliminating manual bank reconciliation loops and compressing accounts receivable collection cycles.
+
+
+### Workbook Structure 
 *  **`Dashboard`:** Premium visual interface tracking ARR growth curves, margins, and conditional runway indicators.
 *  **`Scenario analysis`:** High-level summary isolating Base, Upside, and Downside outcomes side-by-side.
 *  **`Budget vs. actual variance analysis`:** Mid-horizon tracking comparing frozen budgets against actual results with delta evaluations ($\Delta$ and %).
