@@ -5,11 +5,6 @@ Welcome to my professional repository. This space showcases the intersection of 
 ## 📊 Project 1: 24-Month Driver-Based SaaS Financial Model
 
 ### Executive Summary
-A multi-scenario corporate financial model built from scratch for **ApexMetrics SaaS** to evaluate technology growth vectors, optimize cash management, and ensure 3-statement data integrity.
-
-*   **Infrastructure Cost Optimization:** Models resource-based variable hosting economics using tiered data limits ($0.020/GB to $0.012/GB) to defend long-term gross margins.
-*   **Working Capital Cash Velocity:** Quantifies balance sheet efficiencies and liquidity unlocked by compressing account collections processing from 45 days down to an automated 15-day cycle.
-
 This project houses an institutional-grade, multi-scenario corporate financial model built completely from scratch for **ApexMetrics SaaS**—an enterprise subscription software platform. 
 
 The core objective of this project is to demonstrate advanced **Financial Planning & Analysis (FP&A)** methodologies, forward-looking driver-based forecasting, and rigorous 3-statement financial integration. The model is structurally optimized to address two critical core software metrics:
