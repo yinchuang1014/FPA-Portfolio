@@ -23,6 +23,8 @@ The core objective of this project is to demonstrate advanced **Financial Planni
 *  **`Expense schedule`:** Personnel overhead schedules deploying automated, periodic step-function merit adjustments.
 *  **`Bank fee & working capital optimization schedule`:** Chronological aging tool tracking cash acceleration.
 
+### File Directory
+`ApexMetrics_SaaS_24Mo_Forecasting_Model.xlsx`
 
 ---
 ## 🗄️ Project 2: Enterprise Data Cleaning & Transformation (SQL)
