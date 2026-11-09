@@ -56,7 +56,7 @@ The project demonstrates the full reporting cycle an FP&A analyst owns: preparin
 *   **Controls:** Spot-checked Power BI results against the source file (Jan 2024 Mid-C: $216.47 in both) and kept a hidden reconciliation page.
 *   **Documentation:** Business requirements document covering users, questions, sources, metric definitions, assumptions and data-quality results.
 ### File Directory
-[`powerbi-wholesale-power/`](powerbi-wholesale-power/): report (`.pbix`), screenshots, illustrative plan data and the [business requirements document](powerbi-wholesale-power/docs/business_requirements.md)
+`powerbi-wholesale-power`: report , documents, reference
 
 ---
 ### 📬 Contact & Professional Credentials
