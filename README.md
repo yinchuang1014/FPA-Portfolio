@@ -37,6 +37,28 @@ The core objective of this project is to demonstrate advanced **Financial Planni
 * **File Directory:** `Nashville_Housing_Data_Cleaning_and_Transformation.sql`
 
 ---
+## ⚡ Project 3: Western Wholesale Power Price Dashboard (Power BI)
+### Executive Summary
+A 3-page Power BI report built on **9 years (2017–2025) of public wholesale electricity and natural gas prices** from the U.S. Energy Information Administration (EIA/ICE), covering three Western trading hubs: Mid-C (Northwest), SP-15 (Southern California) and Palo Verde (Southwest).
+
+The project demonstrates the full reporting cycle an FP&A analyst owns: preparing and validating raw data, modelling it, explaining what drives results, and reconciling a revenue variance to plan.
+*   **Driver analysis:** Separates gas-driven price moves (the 2022 run-up) from non-gas moves (Mid-C's 2023–24 spikes, when the implied heat rate roughly doubled).
+*   **Price/volume variance bridge:** Splits plan-vs-actual revenue for an illustrative Mid-C sales book into price and volume effects, month by month, with a control that proves the split ties to the total variance ($0 difference every year).
+
+### Key Findings
+*   Mid-C went from usually the cheapest of the three hubs (2017–2020) to the most expensive since 2023.
+*   Peak monthly price: Mid-C **$275.62/MWh in December 2022**.
+*   2025 (illustrative book): revenue **$8.5M (23.8%) below plan**, almost entirely from January, where the prior-year plan price carried over the January 2024 spike.
+### Technical Work
+*   **Power Query:** Combined 9 yearly files with inconsistent sheet names; excluded 376 empty rows and one thinly traded hub (NP-15); removed 3 duplicate deals that appeared in two yearly files. **Final dataset: 6,449 rows** plus 2,258 daily gas prices.
+*   **Data model:** Star schema with a marked date table, hub dimension and single-direction relationships.
+*   **DAX:** 23 measures, including year-over-year change, volatility, implied heat rate, regional spread and month-by-month price/volume variance.
+*   **Controls:** Spot-checked Power BI results against the source file (Jan 2024 Mid-C: $216.47 in both) and kept a hidden reconciliation page.
+*   **Documentation:** Business requirements document covering users, questions, sources, metric definitions, assumptions and data-quality results.
+### File Directory
+[`powerbi-wholesale-power/`](powerbi-wholesale-power/): report (`.pbix`), screenshots, illustrative plan data and the [business requirements document](powerbi-wholesale-power/docs/business_requirements.md)
+
+---
 ### 📬 Contact & Professional Credentials
 * **Designation:** Chartered Professional Accountant (CPA Candidate, 2026)
 * **Location:** Vancouver, BC
